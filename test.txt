@@ -1,3 +1,6 @@
 hello
 hello branch_1
 hello master conflict
+hello master
+test conflict
+test pull
